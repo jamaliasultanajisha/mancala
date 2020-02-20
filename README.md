@@ -1,1 +1,2 @@
 # mancala
+AI Adversarial Search
